@@ -140,6 +140,7 @@
 - [Wielded](https://wielded.com) - Web UI that works for OpenAI, Azure, Anthropic, and AWS Bedrock. Free for individuals.
 - [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across providers. Includes token counter and cost calculator.
 - [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, multi-model support (GPT, Claude, Gemini), project management, and workflow automation for teams.
+- [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the chosen AI tool, such as ChatGPT, Claude, Midjourney, or Veo. 10 free prompts a day.
 
 ### Self-hosted
 
